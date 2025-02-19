@@ -31,4 +31,3 @@ non-stream\
 stream\
 ![Alt text](stream.png)
 
-my result at non-limit memory for node
