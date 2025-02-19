@@ -5,10 +5,6 @@ limit maximum memory\
 `node --max-old-space-size=32 server1.js` \
 `node --max-old-space-size=32 server2.js`
 
-non-limit maximum memory\
-`node --max-old-space-size=32 server1.js`\
-`node --max-old-space-size=32 server2.js`
-
 Gen large-file\
 `fsutil file createnew large-file.txt 10485760`
 
